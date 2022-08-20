@@ -21,3 +21,4 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-ext&layout=compact)](https://github.com/vitor-ext/github-readme-stats)
