@@ -4,7 +4,7 @@
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-de-jesus-082666145/)
 
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-ext&show_icons=true&theme=dark)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-ext&show_icons=true&theme=synthwave)
 
 ## Tecnologias 
 
@@ -21,4 +21,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-ext&layout=compact)](https://github.com/vitor-ext/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-ext&layout=demo)](https://github.com/vitor-ext/github-readme-stats)
