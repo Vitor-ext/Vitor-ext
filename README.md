@@ -22,3 +22,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-ext&layout=demo)](https://github.com/vitor-ext/github-readme-stats)
+
+![snake gif](https://github.com/Vitor-ext/Vitor-ext/blob/output/github-contribution-grid-snake.svg)
