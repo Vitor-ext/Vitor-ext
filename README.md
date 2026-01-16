@@ -1,40 +1,77 @@
 <p align="center">
-   ❣🚀❣  Vitor de Jesus ❣🚀❣
+  ❣🚀❣ <strong>Vitor de Jesus</strong> ❣🚀❣  
 </p>
- 
 
-<div align="center">
-  <a href="https://github.com/vitor-ext">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitor-ext&theme=slateorange" />
-  </a>
-  
-  </div>
+<p align="center">
+  Backend Developer • Java • TypeScript • Node.js • Cloud
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-ext&langs_count=8&theme=great-gatsby" alt="Language stats.">
-</div>
+---
 
-<div align="center">
-  <a href="https://github.com/vitor-ext">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vitor-ext&theme=rising-sun&hide_border=true&exclude_days=Sun" />
-  </a>
-  
-</div>
-  
-<div align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor-ext&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitor-ext&theme=slateorange" />
-  </a>
-</div>
+## 👨‍💻 About Me
 
-<div style="display: inline_block"; align="center"><br/>
-  
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img align="center" alt="Node" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-   <img align="center" alt="HTML" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
-  
-</div><br/><br/>
+Backend developer focused on **Java, TypeScript and Node.js**, building **scalable APIs**, **cloud-native systems** and **robust architectures**.
+
+Strong interest in **Cloud Computing**, **DevOps fundamentals**, and **distributed systems**.
+
+---
+
+## 🛠️ Backend Stack
+
+### 💻 Languages & Frameworks
+- ☕ Java (Spring Boot)
+- 🟦 TypeScript
+- 🟩 Node.js
+- 🐍 Python (automation & scripts)
+
+### ⚙️ Backend & Architecture
+- RESTful APIs
+- Authentication & Authorization (JWT)
+- Clean Architecture
+- Microservices (concepts)
+- System integration
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+### ☁️ Providers
+- AWS
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+- Cloudflare
+
+### 🚀 DevOps & Infra
+- Docker
+- Containers
+- CI/CD (concepts)
+- Load Balancing
+- Cloud deployment
+
+---
+
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/vitor-ext
